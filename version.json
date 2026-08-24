@@ -1,5 +1,5 @@
 {
-  "version": "1.2.7",
-  "download_url": "https://github.com/dezzyy-collab/dezzybot/releases/download/v1.2.7/DezzySoundboard.zip",
-  "notes": "GIF position, cheat sheet, factory reset and backup fixes"
+  "version": "1.2.8",
+  "download_url": "https://github.com/dezzyy-collab/dezzybot/releases/download/v1.2.8/DezzySoundboard.zip",
+  "notes": "Closing Dezzy now fully quits (no leftovers in Task Manager), deleting big sounds no longer freezes or crashes, and huge videos are blocked from being imported as sounds."
 }
