@@ -1,5 +1,5 @@
 {
-  "version": "1.4.5",
-  "download_url": "https://github.com/dezzyy-collab/dezzybot/releases/download/v1.2.8/DezzySoundboard.zip",
-  "notes": "Closing Dezzy now fully quits (no leftovers in Task Manager), deleting big sounds no longer freezes or crashes, and huge videos are blocked from being imported as sounds."
+  "version": "1.6.8",
+  "download_url": "https://github.com/dezzyy-collab/dezzybot/releases/download/v1.6.8/DezzySoundboard.zip",
+  "notes": "Trial is now 1 hour of actual use. Security fix to the updater. New terms, privacy and refund policies bundled with the app. Correct pricing shown in-app."
 }
