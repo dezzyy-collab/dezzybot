@@ -1,5 +1,5 @@
 {
   "version": "1.7.5",
-  "download_url": "https://github.com/dezzyy-collab/dezzybot/releases/download/v1.7.5/DezzySoundboard.zip",
+  "download_url": "https://github.com/dezzyy-collab/dezzybot/releases/download/v1.7.5/DezzySoundboardcustomer.zip",
   "notes": "Adding sounds from a link works again, and so does store search - both were completely broken. Mic + Sounds is always on now and looks after itself: if your mic drops it tells you on screen and comes straight back when you plug it in, and it will never quietly switch you to a different microphone. The voice changer has no on/off switch any more - pick a voice and it's on - and saved voices now fire from a hotkey or a spoken word. Music: queue songs you already have, not just links, plus Clear all and reordering. Fixes: Dezzy not opening at all on some PCs, freezing after you minimised it, staying in Task Manager after you closed it, updates deleting files next to the app, and the soundboard being almost inaudible. Won't open with \"Failed to load Python DLL\"? That's OneDrive emptying the app's files - run \"INSTALL - Double-click me first.bat\" from the download and it installs Dezzy somewhere OneDrive can't reach."
 }
